@@ -1,2 +1,18 @@
-# new-form
-Click to visit website
+[Uploading form…]()<html>
+<head>
+    <title>
+        NEW File FOR FORM
+    </title>
+</head>
+<body>
+    Name:
+    <input type="text" type="Name"size="15" maxlengh="30"placeholder="Name"><br></br>
+    Father:
+    <input type="text" type="Father Name"size="15" maxlengh="30"placeholder="Name"><br></br>
+    Mother:
+    <input type="text" type="Mother Name"size="15" maxlengh="30"placeholder="Name"><br></br>
+    Brother:
+    <input type="text" type="Brother Name"size="15" maxlengh="30"placeholder="Name"><br></br>
+</body>
+</html>
+
